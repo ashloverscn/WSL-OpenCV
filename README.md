@@ -4,10 +4,15 @@ WSL-OpenCV
 ############################## Enable UVC Camera Support in WSL Kernel ################################
 
 #https://zenn.dev/pinto0309/articles/e1432253d29e30
+
 #https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf
+
 #https://olof-astrand.medium.com/compiling-your-own-wsl2-kernel-4428d5258578
+
 #https://gist.github.com/tatumroaquin/b51d16be877d66de9bd3c1bac94faec9
+
 #https://github.com/dorssel/usbipd-win/wiki/WSL-support
+
 #https://zenn.dev/pinto0309/articles/e1432253d29e30
 
 
@@ -15,8 +20,11 @@ WSL-OpenCV
 ########################## Compile OpenCV from Source on WSL Ubuntu24.04.1 ############################
 
 #https://github.com/Eemilp/install-opencv-on-wsl
+
 #https://docs.opencv.org/4.10.0/d7/d9f/tutorial_linux_install.html
+
 #https://phoenixnap.com/kb/installing-opencv-on-ubuntu#ftoc-heading-2
+
 
 sudo apt-get update
 sudo apt-get install build-essential
