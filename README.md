@@ -25,6 +25,8 @@ WSL-OpenCV
 
 #https://docs.opencv.org/4.10.0/d7/d9f/tutorial_linux_install.html
 
+#https://stackoverflow.com/questions/37188623/ubuntu-how-to-install-opencv-for-python3
+
 #https://phoenixnap.com/kb/installing-opencv-on-ubuntu#ftoc-heading-2
 
 
