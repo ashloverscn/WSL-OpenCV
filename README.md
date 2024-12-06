@@ -3,6 +3,8 @@ WSL-OpenCV
 
 ############################## Enable UVC Camera Support in WSL Kernel ################################
 
+#https://www.youtube.com/watch?v=t_YnACEPmrM&ab_channel=AgileDevArt
+
 #https://zenn.dev/pinto0309/articles/e1432253d29e30
 
 #https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf
