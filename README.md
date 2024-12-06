@@ -152,6 +152,8 @@ https://stackoverflow.com/questions/65939167/problem-using-opencv-in-wsl-when-op
 
 https://www.youtube.com/watch?v=k3PcVruvZCs&ab_channel=ProgrammingHero
 
+https://www.youtube.com/watch?v=vJWzH_2F64g&ab_channel=ProgrammingHero
+
 #################################################
 
 sudo apt-get purge libopencv-dev libopencv-python libopencv-samples libopencv*
