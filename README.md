@@ -27,8 +27,6 @@ WSL-OpenCV
 
 #https://stackoverflow.com/questions/37188623/ubuntu-how-to-install-opencv-for-python3
 
-#sudo apt-get install libjpeg8-dev libtiff5-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
-
 #https://phoenixnap.com/kb/installing-opencv-on-ubuntu#ftoc-heading-2
 
 
@@ -41,6 +39,8 @@ sudo apt-get install pkg-config libgtk-3-dev
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev
 sudo apt-get install libjpeg-dev libpng-dev libtiff-dev gfortran openexr libatlas-base-dev
 sudo apt-get install python3-dev python3-numpy libtbb2 libtbb-dev libdc1394-22-dev
+
+sudo apt-get install libjpeg8-dev libtiff5-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 
 sudo apt-get update && sudo apt-get install -y cmake g++ wget unzip
 
