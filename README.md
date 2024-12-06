@@ -158,6 +158,22 @@ https://www.youtube.com/watch?v=k3PcVruvZCs&ab_channel=ProgrammingHero
 
 https://www.youtube.com/watch?v=vJWzH_2F64g&ab_channel=ProgrammingHero
 
+####################### Solution to fix OpenCV Pyhton on windows #########################
+
+pip uninstall opencv-python-headless --break-system-packages
+
+pip install opencv-python --upgrade --break-system-packages
+
+pip uninstall opencv-python --break-system-packages
+
+pip install opencv-python --break-system-packages
+
+pip install matplotlib --break-system-packages
+
+And it turned out that opencv-python-headless must be version 4.5.4 for the program to run properly. So the solution was to change the opencv-python version to be the same as opencv-python-headless. So in that case you can run:python-headless. So in that case you can run:
+
+pip install opencv-python==4.5.4.60
+
 #################################################
 
 sudo apt-get purge libopencv-dev libopencv-python libopencv-samples libopencv*
