@@ -27,6 +27,8 @@ WSL-OpenCV
 
 #https://stackoverflow.com/questions/37188623/ubuntu-how-to-install-opencv-for-python3
 
+#sudo apt-get install libjpeg8-dev libtiff5-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+
 #https://phoenixnap.com/kb/installing-opencv-on-ubuntu#ftoc-heading-2
 
 
