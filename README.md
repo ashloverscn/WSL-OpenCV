@@ -150,6 +150,8 @@ https://stackoverflow.com/questions/72255353/wsl-webcam-usb-can-not-open-camera-
 
 https://stackoverflow.com/questions/65939167/problem-using-opencv-in-wsl-when-opening-windows
 
+https://www.youtube.com/watch?v=k3PcVruvZCs&ab_channel=ProgrammingHero
+
 #################################################
 
 sudo apt-get purge libopencv-dev libopencv-python libopencv-samples libopencv*
