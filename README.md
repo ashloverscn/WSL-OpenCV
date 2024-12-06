@@ -89,7 +89,9 @@ nano ~/.bashrc
 # put this at the bottom of .bashrc file
 
 #OpenCV include path for gcc
+
 CPLUS_INCLUDE_PATH=/usr/local/include/opencv4
+
 export CPLUS_INCLUDE_PATH
 
 
